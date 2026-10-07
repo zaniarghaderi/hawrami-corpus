@@ -42,7 +42,7 @@
 # annotation_note = Morphology is derived from published interlinear glossing; UD UPOS/FEATS/dependencies are a machine-assisted first conversion and require human review.
 # text = wişkesaɫî bo pêse îsey.
 # text_en = [This region] was in drought, like [it is] now.
-# text_fa = این منطقه دچار خشکسالی بود، مثل حالا.
+# text_fa = این منطقه دچار] خشکسالی بود، مثل حالا].
 1	wişkesaɫî	wişkesaɫî	NOUN	_	Gender=Masc	2	nsubj	_	Gloss=drought.m|SourceUnit=ZB.2
 2	bo	bî	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=be.prs.ind-3sg:S|SourceUnit=ZB.2
 3	pêse	pêse	ADV	_	_	2	advmod	_	Gloss=like|SourceUnit=ZB.2
@@ -80,7 +80,7 @@
 # annotation_note = Morphology is derived from published interlinear glossing; UD UPOS/FEATS/dependencies are a machine-assisted first conversion and require human review.
 # text = mênê qeredax.
 # text_en = They (the man and his wife) came to Qaradagh.
-# text_fa = آن مرد و همسرش به قره‌داغ آمدند.
+# text_fa = آنها [مرد و همسرش] به قره‌داغ آمدند.
 1	mênê	ama	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=ind-come.prs-3pl:S|SourceUnit=ZB.4
 2	qeredax	qeredax	PROPN	_	_	1	dep	_	Gloss=pn|SourceUnit=ZB.4
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=_|SourceUnit=ZB.4
@@ -527,7 +527,7 @@
 # annotation_note = Morphology is derived from published interlinear glossing; UD UPOS/FEATS/dependencies are a machine-assisted first conversion and require human review.
 # text = beʕzêçiş meno milwa xizana meřekê.
 # text_en = Some of [the animals] which had survived went [and] squeezed themselves into the cave.
-# text_fa = بعضی از حیواناتی که زنده مانده بودند رفتند و خودشان را در غار جا دادند.
+# text_fa = بعضی [از حیواناتی] که زنده مانده بودند رفتند و خودشان را در غار جا دادند.
 1	beʕzêçiş	beʕzê	DET	_	_	2	dep	_	Gloss=some~add~3sg:PSR|SourceUnit=ZB.23
 2	meno	menn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=remain.prs.ind-3sg:S|SourceUnit=ZB.23
 3	milwa	luwa	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Gloss=ind-go.prs-3pl:S|SourceUnit=ZB.23
@@ -577,7 +577,7 @@
 # annotation_note = Morphology is derived from published interlinear glossing; UD UPOS/FEATS/dependencies are a machine-assisted first conversion and require human review.
 # text = wizoşare dilû awê.
 # text_en = She delivered them in the water [which had flooded in the tent].
-# text_fa = او نوزادان را در آبی که وارد چادر شده بود به دنیا آورد.
+# text_fa = او نوزادان را در آب[ی که وارد چادر شده بود] به دنیا آورد.
 1	wizoşare	wist	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=throw.prs.ind-3sg:A~3pl:O~povb|SourceUnit=ZB.25
 2	dilû	dil	NOUN	_	_	1	dep	_	Gloss=inside-ez.gen|SourceUnit=ZB.25
 3	awê	awî	NOUN	_	Gender=Fem	1	obj	_	Gloss=water.f-sg.obl|SourceUnit=ZB.25
@@ -1184,7 +1184,7 @@
 # annotation_note = Morphology is derived from published interlinear glossing; UD UPOS/FEATS/dependencies are a machine-assisted first conversion and require human review.
 # text = marowe kêşoş şiş kîlowê.
 # text_en = The father weighed him, [and] he weighed six kilos [more than the other son].
-# text_fa = پدر او را وزن کرد؛ او شش کیلو از پسر دیگر سنگین‌تر بود.
+# text_fa = پدر او را وزن کرد؛ او شش کیلو ...
 1	marowe	ard	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=ind-bring.prs-3sg:A~compl|SourceUnit=ZB.51
 2	kêşoş	kêşa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Gloss=weigh.prs.ind-3sg:A~3sg:O|SourceUnit=ZB.51
 3	şiş	şiş	NUM	_	_	4	nummod	_	Gloss=six|SourceUnit=ZB.51
